@@ -1,4 +1,4 @@
-# 🚗 Hệ thống Nhận diện Biển số Xe# - License Plate Recognition
+# 🚗 Hệ thống Nhận diện Biển số Xe # - License Plate Recognition
 
 Nhận diện biển số xe Việt Nam qua webcam sử dụng YOLOv8 OBB để **nhận diện biển số xe** và **EasyOCR** để **đọc ký tự** trên biển số qua webcam.
 
@@ -190,5 +190,6 @@ Model này được train để nhận diện biển số xe máy và ô tô Vi�
 
 **Phát triển bởi**: wanghoc - wanghoc.id.vn   
 **Lưu ý**: Việc nhận diện ký tự từ biển số hiện đang sử dụng EasyOCR nên hiệu suất nhận diện chưa cao.
+
 
 
